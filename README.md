@@ -28,6 +28,10 @@ Tools: XAMPP / VSCode / phpMyAdmin (if applicable)
 
 🗂️ Database
 Normalized schema designed with ER and Relational Diagrams
+Use of stored procedures, joins, views, and triggers
+
+Supports CRUD operations for user and resume data
+
 
 ![Screenshot 2025-05-09 124153](https://github.com/user-attachments/assets/952172c2-6694-428b-8da6-9c9bf094b378)
 
@@ -35,14 +39,6 @@ Normalized schema designed with ER and Relational Diagrams
 
 ![Screenshot 2025-05-09 124540](https://github.com/user-attachments/assets/d33eb7f2-0a8d-4a4f-8335-177a135fe970)
 
-
-
-
-
-
-Use of stored procedures, joins, views, and triggers
-
-Supports CRUD operations for user and resume data
 
 📜 License
 This project is licensed under the MIT License.
